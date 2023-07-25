@@ -33,15 +33,15 @@ To run the Weather Viewer App locally, follow these steps:
 
 1. Clone the repository to your local machine using Git.
 ```
-git clone https://github.com/saisatwik21/weather-viewer-app.git
+git clone https://github.com/saisatwik21/weather-app.git
 ```
 
 2. Navigate to the project directory.
 ```
-cd weather-viewer-app
+cd weather-app
 ```
 
-3. Open the `index.html` file in your web browser to access the Weather Viewer App.
+3. Open the `index.html` file in your web browser to access the Weather App.
 
 ## 4. Usage
 - Enter the name of a city or location in the input field.
